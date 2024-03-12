@@ -5,7 +5,7 @@ Sou um profissional dedicado e entusiasmado em busca de oportunidades para aplic
 
 ## Contato
 - **E-mail:** gabrielcordeirobarroso@gmail.com
-- **LinkedIn:** [Gabriel Cordeiro](https://www.linkedin.com/in/#)
+- **LinkedIn:** [Gabriel Cordeiro]( https://www.linkedin.com/in/gabriel-cordeiro-5603132ba/ )
 - **GitHub:** [GabrielCordeiroBarrosoTeles](https://github.com/GabrielCordeiroBarrosoTeles)
 
 ## Certificados
