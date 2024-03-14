@@ -10,6 +10,7 @@ Sou um profissional dedicado e entusiasmado em busca de oportunidades para aplic
 
 ## Certificados
 - [AWS - 20h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/AWS.pdf)
+- [Computação em Nuvem  AWS Discovery Day - 5h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Computação%20em%20Nuvem%20%20AWS%20Discovery%20Day.pdf)
 - [Git & Github - 20h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Git-e-GitHub.pdf)
 - [Java - 165h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Java.pdf)
 - [Marketing Digital -12h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Marketing%20Digital%20-%20JD%20Trilhas.pdf)
