@@ -9,6 +9,7 @@ Sou um profissional dedicado e entusiasmado em busca de oportunidades para aplic
 - **GitHub:** [GabrielCordeiroBarrosoTeles](https://github.com/GabrielCordeiroBarrosoTeles)
 
 ## Certificados
+- [Introdução à inteligência artificial no Azure - 1h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/IA.pdf)
 - [AWS - 20h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/AWS.pdf)
 - [Computação em Nuvem  AWS Discovery Day - 5h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Computação%20em%20Nuvem%20%20AWS%20Discovery%20Day.pdf)
 - [Git & Github - 20h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Git-e-GitHub.pdf)
