@@ -18,6 +18,7 @@ Sou um profissional dedicado e entusiasmado em busca de oportunidades para aplic
 - [Criando uma API RESTful em instantes - 4h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Criando_uma_API_RESTful_em_instantes.pdf)
 - [Imersão Dev Back-End](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Imersao_Dev_Back-End.pdf)
 - [Lógica de programação com JavaScript](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Logica_de_programação_com_JavaScript.pdf)
+- [Programação Full Stack](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Programação_Full_Stack.pdf)
 
 ### Inteligência Artificial e Análise de Dados
 - [Introdução à Inteligência Artificial no Azure - 1h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/IA.pdf)
