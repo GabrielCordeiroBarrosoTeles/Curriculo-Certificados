@@ -15,6 +15,7 @@ Sou um profissional dedicado e entusiasmado em busca de oportunidades para aplic
 - [HTML & CSS - 18h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Prog_web_HTML_CSS_CERTIFICADOS%20AGOSTO%202022-18.pdf)
 - [Git & GitHub - 20h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Git-e-GitHub.pdf)
 - [React - 12h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/React.pdf)
+- [Criando uma API RESTful em instantes - 4h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Criando uma API RESTful em instantes.pdf)
 
 ### Inteligência Artificial e Análise de Dados
 - [Introdução à Inteligência Artificial no Azure - 1h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/IA.pdf)
