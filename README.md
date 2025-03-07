@@ -9,6 +9,7 @@ Sou um profissional dedicado e entusiasmado em busca de oportunidades para aplic
 - **GitHub:** [GabrielCordeiroBarrosoTeles](https://github.com/GabrielCordeiroBarrosoTeles)
 
 ## Certificados
+
 ### Desenvolvimento e Programação
 - [Java - 165h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Java.pdf)
 - [Javascript - 18h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/javascript.pdf)
@@ -18,7 +19,7 @@ Sou um profissional dedicado e entusiasmado em busca de oportunidades para aplic
 - [Criando uma API RESTful em instantes - 4h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Criando_uma_API_RESTful_em_instantes.pdf)
 - [Imersão Dev Back-End](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Imersao_Dev_Back-End.pdf)
 - [Lógica de programação com JavaScript](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Logica_de_programação_com_JavaScript.pdf)
-- [Programação Full Stack](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Programação_Full_Stack.pdf)
+- [Programação Full Stack - 60h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Programação_Full_Stack.pdf)
 
 ### Inteligência Artificial e Análise de Dados
 - [Introdução à Inteligência Artificial no Azure - 1h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/IA.pdf)
@@ -29,10 +30,11 @@ Sou um profissional dedicado e entusiasmado em busca de oportunidades para aplic
 - [AWS - 20h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/AWS.pdf)
 - [Computação em Nuvem AWS Discovery Day - 5h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Computa%C3%A7%C3%A3o%20em%20Nuvem%20%20AWS%20Discovery%20Day.pdf)
 
-### Suporte Técnico e Gestão
+### Gestão e Suporte Técnico
 - [Suporte Técnico - Dell - 100h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/SuporteTecnico-Dell.pdf)
 - [Marketing Digital - 12h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Marketing%20Digital%20-%20JD%20Trilhas.pdf)
 - [Tráfego Pago e Anúncios Patrocinados - 12h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Tr%C3%A1fego%20Pago%20e%20An%C3%BAncios%20Patrocinados_CERTIFICADOS%20-%20Outubro%2022-119.pdf)
+- [Metodologias ágeis para desenvolvimento de projetos - 12h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/Metodologias_ágeis_para_desenvolvimento_de_projetos.pdf)
 
 ### SAP
 - [AI Ethics & Impact (aie1-2) - SAP Open Badge](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/aie1-2_open_badge.png)
@@ -41,7 +43,3 @@ Sou um profissional dedicado e entusiasmado em busca de oportunidades para aplic
 ### Eventos e Participações
 - [Ceará Científico - 2022 - 12h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/cear%C3%A1cient%C3%ADfico-2022.pdf)
 - [Fórum Estadual dos Grêmios Estudantis do Ceará - 20h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/forum_estadual_dos_gremios_estudantis.pdf)
-
-
-
-
