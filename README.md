@@ -43,4 +43,5 @@ Sou um profissional dedicado e entusiasmado em busca de oportunidades para aplic
 ### Eventos e Participações
 - [Ceará Científico - 2022 - 12h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/cear%C3%A1cient%C3%ADfico-2022.pdf)
 - [Comunidade Python - 2024 - 4h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/comunidade_python.pdf)
+- [Comunidade IOS - 2024 - 4h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/CocoaHeads.pdf)
 - [Fórum Estadual dos Grêmios Estudantis do Ceará - 20h/a](https://github.com/GabrielCordeiroBarrosoTeles/Curriculo-Certificados/blob/main/forum_estadual_dos_gremios_estudantis.pdf)
